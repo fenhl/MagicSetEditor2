@@ -15,6 +15,8 @@
 /data/packages
 /data/old
 
+/doc/_build
+
 /build_*
 /build
 /out
